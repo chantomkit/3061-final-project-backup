@@ -1,4 +1,4 @@
-Just a backup for my code in the simulation
+Just a backup for my code in the simulation of PHYS3061
 Brief description of the project:
 1. Initialize a cubic chamber with Maxwellian ideal gases
 2. After the transient state, turn on an oscillator at one side
